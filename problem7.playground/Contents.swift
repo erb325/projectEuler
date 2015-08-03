@@ -10,25 +10,6 @@ var prime = 0
 var count = 6
 var flag = true
 
-//while count <= 10001 {
-//    if (num % 2 == 0 && num == 2){
-//        //flag = false
-//    }
-//    for ( var i = 3; i <= (num^(1/2)+1); i += 2){
-//        if (num % i == 0 ){
-//            flag =  false
-//        } else {
-//            flag = true
-//        }
-//    }
-//    if flag {
-//        count++
-//        prime = num;
-//    }
-//    
-//    num++
-//    
-//}
 for num = 13; count <= 10001; num += 2{
     for var i = 3; i < (num / 2); i++ {
         if num % i == 0 {
