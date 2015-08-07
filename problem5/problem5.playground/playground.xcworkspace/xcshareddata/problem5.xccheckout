@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>48F5BEDC-F6B9-4033-8898-010ABE9A3154</string>
+	<string>63B410FF-AB3D-42A5-B680-81214679E0A8</string>
 	<key>IDESourceControlProjectName</key>
-	<string>problem7</string>
+	<string>problem5</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>6EAE024670C558CDA8223FB466A6FE396AF25363</key>
 		<string>https://github.com/erb325/projectEuler.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>problem7/problem7.playground</string>
+	<string>problem5/problem5.playground</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>6EAE024670C558CDA8223FB466A6FE396AF25363</key>

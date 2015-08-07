@@ -14,11 +14,11 @@
 		<string>https://github.com/erb325/projectEuler.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>problem9.playground</string>
+	<string>problem9/problem9.playground</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>6EAE024670C558CDA8223FB466A6FE396AF25363</key>
-		<string>..</string>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/erb325/projectEuler.git</string>
