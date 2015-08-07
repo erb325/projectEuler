@@ -3,7 +3,8 @@
 //  
 //
 //  Created by Ember Baker on 8/7/15.
-//
+//g++ prob1.cpp
+//./a.out
 //
 
 #include <iostream>
