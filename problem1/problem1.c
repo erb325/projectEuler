@@ -7,7 +7,6 @@
 // gcc problem1.c -o prob1
 //./prob1
 
-#include "problem1.h"
 #include "stdio.h"
 
 int main(){
