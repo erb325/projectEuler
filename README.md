@@ -1,2 +1,2 @@
 # projectEuler
-Swift Playgrounds to solve Project Euler problems
+Each problem has its own folder because I have written the same problem in different languages
