@@ -5,9 +5,9 @@ Find the sum of all the multiples of 3 or 5 below 1000. */
 import UIKit
 var count = 0
 var  sum = 0;
-while count<1000{
+while count < 1000 {
     if (count%3 == 0 || count%5 == 0){
-        sum = sum+count;
+        sum = sum + count;
     }
     count++;
 }
